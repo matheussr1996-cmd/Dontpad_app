@@ -1,6 +1,6 @@
 # DontPad - Compartilhamento Simples de Recursos Educacionais
 
-O **DontPad** é um aplicativo Android desenvolvido na disciplina de Desenvolvimento Android na Fatec Ipiranga. Sua principal finalidade é facilitar a colaboração e o compartilhamento de recursos educacionais, como imagens e anotações, entre estudantes de forma simples e rápida.
+O **DontPad** é um aplicativo Android desenvolvido como projeto para disciplina de Desenvolvimento Android na Fatec Ipiranga. Sua principal finalidade é facilitar a colaboração e o compartilhamento de recursos educacionais, como imagens e anotações, entre estudantes de forma simples e rápida.
 
 ## Funcionalidades Principais
 
