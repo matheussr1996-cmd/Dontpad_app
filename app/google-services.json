@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24696295775",
+    "firebase_url": "https://app-dontpad.firebaseio.com",
+    "project_id": "app-dontpad",
+    "storage_bucket": "app-dontpad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24696295775:android:77d1ff389adb1b9bfca6ea",
+        "android_client_info": {
+          "package_name": "com.example.appdontpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24696295775-9fnr90785j6n43idmhbochbtpq3htk2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appdontpad",
+            "certificate_hash": "32e70bd4abbad0fd284e4bbee2f0aebc562fa4d8"
+          }
+        },
+        {
+          "client_id": "24696295775-ftj2b9pvq2jqb9kl8qra6u534ggecsvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIc3dxhF7yHGwyDmtemokSrcz4wuw6rs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24696295775-ftj2b9pvq2jqb9kl8qra6u534ggecsvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

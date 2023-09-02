@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="No">Nein</string>
+    <string name="StringButtonSend">" Senden"</string>
+    <string name="String_Tesxt_input" translatable="false">" Geben Sie Ihre Notiz ein"</string>
+    <string name="String_pictures">" Bilder"</string>
+    <string name="String_tag_image">" Kennzeichnen Sie Ihr Foto"</string>
+    <string name="String_tag_insert">" Kennzeichnen Sie Ihre Notiz"</string>
+    <string name="String_text">Text</string>
+    <string name="StringbuttonSText">" Notiz senden"</string>
+    <string name="delete">" Ausschließen"</string>
+    <string name="empty_tag">" Weisen Sie ein Tag zu"</string>
+    <string name="no">" Nein"</string>
+    <string name="no_camera">" Wir benötigen eine Erlaubnis, um auf die Kamera zugreifen zu können"</string>
+    <string name="no_file">Keine Bilder ausgewählt</string>
+    <string name="string_cancel">" Löschung abgebrochen"</string>
+    <string name="string_delete_ask">" Möchten Sie dieses Bild wirklich löschen?"</string>
+    <string name="string_errorsent">" Fehler beim Senden"</string>
+    <string name="string_hintText">" Suche nach Tag"</string>
+    <string name="string_notsent">" Sie können kein leeres Tag zuweisen"</string>
+    <string name="string_nullphoto">" Das Bild fehlt"</string>
+    <string name="string_search_photos">" Durchsuchen Sie Fotos nach Tag"</string>
+    <string name="string_sent">" Text erfolgreich gesendet"</string>
+    <string name="string_sucessful">" Erfolgreich gesendet"</string>
+    <string name="string_upProgress">" Upload läuft"</string>
+    <string name="string_description_button_note">" Schaltfläche zum Öffnen des Anmerkungsbereichs"</string>
+    <string name="string_description_button_photo">" Klicken Sie auf diese Schaltfläche, um ein Foto hochzuladen"</string>
+    <string name="string_description_delete">" Diese Ansicht enthält ein Bild, mit dem Sie mit einem langen Klick löschen können"</string>
+    <string name="string_description_photo_result">" ImageView enthält das Ergebnis"</string>
+    <string name="string_description_send_photo">" Schaltfläche zum Öffnen des Foto-Upload-Bereichs"</string>
+    <string name="string_description_tag">" Hier muss ein Tag vergeben werden"</string>
+    <string name="string_description_take_photo">" Taste, um ein Foto aufzunehmen"</string>
+    <string name="yes">Ja</string>
+    <string name="string_description_photo">" Klicken Sie hier, um den Bereich zum Hochladen von Fotos zu öffnen"</string>
+    <string name="string_description_send">" Klicken Sie auf diese Schaltfläche, um Ihre Notiz zu senden"</string>
+    <string name="string_description_text">" Schaltfläche zum Öffnen der Anmerkungsansicht"</string>
+    <string name="string_edit">Text bearbeiten</string>
+    <string name="string_edit_result">" Text erfolgreich bearbeitet"</string>
+</resources>

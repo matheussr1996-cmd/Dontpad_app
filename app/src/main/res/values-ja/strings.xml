@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="String_Tesxt_input" translatable="false">メモを入力してください</string>
+    <string name="StringButtonSend">" 提出する"</string>
+    <string name="String_pictures">" 写真"</string>
+    <string name="String_tag_image">写真にタグを付けます</string>
+    <string name="String_tag_insert">メモにタグを付けます</string>
+    <string name="StringbuttonSText">" メモを送信"</string>
+    <string name="String_text">" テキスト"</string>
+    <string name="delete">" 除外する"</string>
+    <string name="empty_tag">" タグを割り当てる"</string>
+    <string name="no">" いや"</string>
+    <string name="no_camera">カメラへのアクセス許可が必要です</string>
+    <string name="no_file">" 画像が選択されていません"</string>
+    <string name="string_cancel">" 削除はキャンセルされました"</string>
+    <string name="string_delete_ask">" この画像を本当に削除しますか？"</string>
+    <string name="string_errorsent">" 送信エラー"</string>
+    <string name="string_hintText">" タグで検索"</string>
+    <string name="string_notsent">" 空のタグを割り当てることはできません"</string>
+    <string name="string_nullphoto">" 画像がありません"</string>
+    <string name="string_search_photos">" タグで写真を閲覧する"</string>
+    <string name="string_sent">" テキストを送信しました"</string>
+    <string name="string_sucessful">" 正常に送信されました"</string>
+    <string name="string_upProgress">" アップロード中"</string>
+    <string name="yes">" はい"</string>
+    <string name="No">いや</string>
+    <string name="string_description_button_photo">このボタンをクリックして写真をアップロードします</string>
+    <string name="string_description_button_note">" 注釈セクションを開くボタン"</string>
+    <string name="string_description_delete">" そのビューには、ロングクリックを使用して削除できる画像が含まれています"</string>
+    <string name="string_description_photo_result">結果を含むImageView</string>
+    <string name="string_description_send_photo">写真アップロードセクションを開くボタン</string>
+    <string name="string_description_tag">" ここでは、タグを割り当てる必要があります"</string>
+    <string name="string_description_take_photo">" 写真を撮るボタン"</string>
+    <string name="string_description_photo">" クリックして写真のアップロード領域を開きます"</string>
+    <string name="string_description_send">このボタンをクリックしてメモを送信します</string>
+    <string name="string_description_text">注釈ビューを開くボタン</string>
+    <string name="string_edit">" テキストを編集"</string>
+    <string name="string_edit_result">" テキストが正常に編集されました"</string>
+</resources>

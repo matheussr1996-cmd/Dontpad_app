@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">App Dontpad</string>
+    <string name="String_pictures">Pictures</string>
+    <string name="String_text">Text</string>
+    <string name="string_tag" translatable="false">Tag</string>
+    <string name="StringbuttonSText">Send Note</string>
+    <string name="String_tag_insert">Assign a tag to your note</string>
+    <string name="String_Tesxt_input">Type your note</string>
+    <string name="StringButtonSend">Send</string>
+    <string name="string_sent">Text succesfully sent</string>
+    <string name="string_errorsent">Error submitting</string>
+    <string name="string_hintText">Search a tag</string>
+    <string name="String_tag_image">Assign a tag to your photo</string>
+    <string name="string_notsent">You can\'t assign a empty tag</string>
+    <string name="no_camera">We need permission to access the camera</string>
+    <string name="empty_tag">Assign a Tag</string>
+    <string name="no_file">No file selected</string>
+    <string name="string_sucessful">Upload sucessful</string>
+    <string name="string_search_photos">Search photos by tag</string>
+    <string name="string_upProgress">Upload in progress</string>
+    <string name="string_nullphoto">The image is missing</string>
+    <string name="delete">Delete</string>
+    <string name="string_delete_ask">You really want to delete this image?</string>
+    <string name="No">No</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="string_cancel">Exclusion cancelled</string>
+    <string name="string_description_delete">That view contains a picture that allows you tho delete using a long click</string>
+    <string name="string_description_tag">Here you must assign a tag</string>
+
+    <string name="string_description_send">Click this button to send your note</string>
+    <string name="string_description_text">" Button to open annotation view"</string>
+    <string name="string_description_photo">" Click to open the photo upload area"</string>
+    <string name="string_description_button_photo">" Click this button to upload a photo"</string>
+    <string name="string_description_take_photo">button to take a photo</string>
+    <string name="string_description_photo_result">ImageView containing result</string>
+    <string name="string_description_send_photo">Button to open photo upload section</string>
+    <string name="string_description_button_note">Button to open annotation section</string>
+    <string name="string_edit">Edit Text</string>
+    <string name="string_edit_result">Text succesfully edited</string>
+    <string name="string_delete_ask2">Do you really want to delete this entry?</string>
+    <string name="delete_text">Note deleted</string>
+
+</resources>

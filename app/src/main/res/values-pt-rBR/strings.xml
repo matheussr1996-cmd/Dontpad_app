@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="No">Não</string>
+    <string name="StringButtonSend">Enviar</string>
+    <string name="String_Tesxt_input" translatable="false">Digite sua anotação</string>
+    <string name="String_pictures">Imagens</string>
+    <string name="String_tag_image">Atribua uma tag para sua foto</string>
+    <string name="String_tag_insert">Atribua uma tag para sua anotação</string>
+    <string name="String_text">Texto</string>
+    <string name="StringbuttonSText">Enviar anotação</string>
+    <string name="delete">Excluir</string>
+    <string name="empty_tag">Atribua uma tag</string>
+    <string name="no">Não</string>
+    <string name="no_camera">Precisamos de permisão para acessar a câmera</string>
+    <string name="no_file">Nenhuma imagem selecionada</string>
+    <string name="string_cancel">Exclusão cancelada</string>
+    <string name="string_delete_ask">Você realmente deseja excluir essa imagem?</string>
+    <string name="string_errorsent">Erro ao enviar</string>
+    <string name="string_hintText">Pesquise por tag</string>
+    <string name="string_notsent">Você não pode atribuir uma tag vazia</string>
+    <string name="string_nullphoto">Está faltando a imagem</string>
+    <string name="string_search_photos">Procure fotos por tag</string>
+    <string name="string_sent">Texto enviado com sucesso</string>
+    <string name="string_sucessful">Enviado com sucesso</string>
+    <string name="string_upProgress">Upload em progresso</string>
+    <string name="yes">Sim</string>
+
+    <string name="string_description_button_photo">" clique neste botão para fazer upload de uma foto"</string>
+    <string name="string_description_button_note">" Botão para abrir a seção de anotação"</string>
+    <string name="string_description_delete">" Essa visualização contém uma imagem que permite excluir com um clique longo"</string>
+    <string name="string_description_photo_result">" ImageView contendo resultado"</string>
+    <string name="string_description_send_photo">" Botão para abrir a seção de upload de fotos"</string>
+    <string name="string_description_tag">" Aqui você deve atribuir uma tag"</string>
+    <string name="string_description_take_photo">" botão para tirar uma foto"</string>
+    <string name="string_description_photo">" Clique para abrir a área de upload de fotos"</string>
+    <string name="string_description_send">Clique nesse botão para enviar sua anotação</string>
+    <string name="string_description_text">Botão para abrir visualização de anotações</string>
+    <string name="string_edit">Editar texto</string>
+    <string name="string_edit_result">" Texto editado com sucesso"</string>
+</resources>

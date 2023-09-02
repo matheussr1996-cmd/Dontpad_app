@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="String_Tesxt_input">" Ingrese su nota"</string>
+    <string name="String_pictures">" Imágenes"</string>
+    <string name="String_tag_image">" Etiqueta tu foto"</string>
+    <string name="String_tag_insert">" Etiqueta tu nota"</string>
+    <string name="String_text">" Texto"</string>
+    <string name="StringbuttonSText">" Enviar nota"</string>
+    <string name="delete">" Excluir"</string>
+    <string name="empty_tag">" Asignar una etiqueta"</string>
+    <string name="no">No</string>
+    <string name="no_camera">" Necesitamos permiso para acceder a la cámara."</string>
+    <string name="no_file">" No hay imágenes seleccionadas."</string>
+    <string name="string_cancel">" Eliminación cancelada"</string>
+    <string name="string_delete_ask">" ¿Realmente quieres eliminar esta imagen?"</string>
+    <string name="string_errorsent">" Error al enviar"</string>
+    <string name="string_hintText">" Buscar por etiqueta"</string>
+    <string name="string_notsent">" No puedes asignar una etiqueta vacía"</string>
+    <string name="string_nullphoto">" Falta la imagen"</string>
+    <string name="string_search_photos">" Buscar fotos por etiqueta"</string>
+    <string name="string_sent">" Texto enviado con éxito"</string>
+    <string name="string_sucessful">" Enviado con éxito"</string>
+    <string name="string_upProgress">Upload en progreso</string>
+    <string name="yes">Sí</string>
+    <string name="StringButtonSend">Enviar</string>
+    <string name="No">No</string>
+    <string name="string_description_button_note">Botón para abrir la sección de anotaciones</string>
+    <string name="string_description_button_photo">" haz clic en este botón para subir una foto"</string>
+    <string name="string_description_delete">" Esa vista contiene una imagen que le permite eliminar con un clic largo"</string>
+    <string name="string_description_photo_result">Resultado de ImageView que contiene</string>
+    <string name="string_description_send_photo">" Botón para abrir la sección de carga de fotos"</string>
+    <string name="string_description_tag">" Aquí debes asignar una etiqueta"</string>
+    <string name="string_description_take_photo">" botón para tomar una foto"</string>
+    <string name="string_description_photo">" Haga clic para abrir el área de carga de fotos"</string>
+    <string name="string_description_send">" Haga clic en este botón para enviar su nota"</string>
+    <string name="string_description_text">" Botón para abrir la vista de anotaciones"</string>
+    <string name="string_edit">" Editar texto"</string>
+    <string name="string_edit_result">" Texto editado con éxito"</string>
+</resources>
